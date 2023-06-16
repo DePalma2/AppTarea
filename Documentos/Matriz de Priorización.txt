@@ -1,0 +1,3 @@
+Stakeholder 1: Usuarios finales (Alta prioridad)
+Stakeholder 2: Equipo de desarrollo (Media prioridad)
+Stakeholder 3: Gerencia de la empresa (Baja prioridad)
